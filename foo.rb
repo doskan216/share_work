@@ -5,6 +5,10 @@ class Foo
     return "bar"
   end
 
+  def kanda
+    return "yasutoki"
+  end
+
   def hello_world(name)
     return "Hello #{name}."
   end
