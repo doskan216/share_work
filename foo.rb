@@ -12,6 +12,10 @@ class Foo
   def hello_world(name)
     return "Hello #{name}."
   end
+
+  def zoo
+    return "zoo"
+  end
 end
 
 f = Foo.new
